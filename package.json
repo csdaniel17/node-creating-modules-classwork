@@ -1,0 +1,19 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "A demo npm package",
+  "main": "ctofmodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csdaniel17/node-creating-modules-classwork.git"
+  },
+  "author": "carolyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csdaniel17/node-creating-modules-classwork/issues"
+  },
+  "homepage": "https://github.com/csdaniel17/node-creating-modules-classwork#readme"
+}
